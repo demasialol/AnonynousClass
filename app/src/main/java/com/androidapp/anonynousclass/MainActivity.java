@@ -26,4 +26,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
         mTextView1.setText("you clicked button 1");
     }
+
 }
